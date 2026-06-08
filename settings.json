@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "paradisefun09.aternos.me:27221",
+    "ip": "paradisefun09.aternos.me",
     "port": 27221,
     "version": "",
     "try-creative": false
